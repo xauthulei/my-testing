@@ -3,8 +3,8 @@ name: Request lsfqa-trusted template
 about: The template should be used to request updating /pcc/lsfqa-trusted where we
   stored the 3rd party SW for product build
 title: ''
-labels: ''
-assignees: ''
+labels: Request_Lsfqa-trusted
+assignees: 'xauthulei'
 
 ---
 
