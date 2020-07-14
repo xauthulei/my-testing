@@ -1,7 +1,9 @@
 ---
 name: Bug Report
 about: Report a bug encountered with test-infra
-labels: kind/bug
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
