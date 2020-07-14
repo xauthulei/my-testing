@@ -3,8 +3,8 @@ name: Request release template
 about: The WI template should be used to request daily build or other things from
   build team that are not covered by other WI templates.
 title: ''
-labels: ''
-assignees: ''
+labels: 'Request_Release'
+assignees: 'xauthulei'
 
 ---
 
