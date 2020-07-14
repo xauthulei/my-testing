@@ -1,4 +1,11 @@
-Purpose: (for what project or product and justifications): [  For prototyping ICP for HPAC  ]
+---
+name: Request RTC template
+about: The WI template should be used to log RTC related requests.
+labels: kind/cleanup
+
+---
+
+Purpose: (for what project or product and justifications): [  ]
 
 Create a new stream based on a existing stream or snapshot:
 --------------------------------------------------------------------------
