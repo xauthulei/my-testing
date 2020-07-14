@@ -2,8 +2,8 @@
 name: Request RTC template
 about: The WI template should be used to log RTC related requests.
 title: ''
-labels: ''
-assignees: ''
+labels: Request_RTC
+assignees: 'xauthulei'
 
 ---
 
