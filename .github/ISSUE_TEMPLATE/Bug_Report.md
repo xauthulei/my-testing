@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Report a bug encountered with test-infra
-title: ''
+title: "[DATE]: [FEATURE NAME]"
 labels: bug
-assignees: ''
+assignees: 'xauthulei'
 
 ---
 
