@@ -1,7 +1,7 @@
 ---
 name: Request RTC template
 about: The WI template should be used to log RTC related requests.
-labels: kind/cleanup
+labels: kind/Request_RTC
 
 ---
 

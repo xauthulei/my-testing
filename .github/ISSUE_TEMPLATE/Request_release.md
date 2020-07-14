@@ -1,7 +1,7 @@
 ---
 name: Request release template  
 about: The WI template should be used to request daily build or other things from build team that are not covered by other WI templates.
-labels: kind/request_release
+labels: kind/Request_Release
 
 ---
 *Note that this WI is mainly for handling daily builds.  If you want to do a formal RC/release build, please log it in Request BUILD*
