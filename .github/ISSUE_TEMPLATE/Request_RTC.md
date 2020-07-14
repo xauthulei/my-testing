@@ -2,7 +2,6 @@
 name: Request RTC template
 about: The WI template should be used to log RTC related requests.
 labels: kind/Request_RTC
-
 ---
 
 Purpose: (for what project or product and justifications): [  ]
